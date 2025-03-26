@@ -4,7 +4,7 @@ This project is a practical exercise to learn how **Express** works in combinati
 
 ## Motivation
 
-I'm a developer with frontend experience exploring the backend world. To speed up the learning process and resolve doubts efficiently, I am using **ChatGPT** as an assistant, as traditional courses can become slow for those who already have development experience.
+I'm a developer with frontend experience exploring the backend world. To speed up the learning process and resolve doubts efficiently, I'm using **ChatGPT** as an assistant, as traditional courses can become slow for those who already have development experience.
 
 ## Technologies Used
 
