@@ -11,7 +11,6 @@ I'm a developer with frontend experience exploring the backend world. To speed u
 - **Node.js** + **Express**: For the backend server
 - **TypeScript**: For more robust and typed code
 - **Swagger**: For API documentation and testing
-- **Zod** (optional): For data validation
 
 ## Project Structure
 
